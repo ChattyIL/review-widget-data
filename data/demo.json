@@ -1,0 +1,10 @@
+{
+  "reviews": [
+    {
+      "Header": "Demo",
+      "Content": "עובד! זו ביקורת לדוגמה.",
+      "Photo": "",
+      "rating": 5
+    }
+  ]
+}
